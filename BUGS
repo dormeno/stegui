@@ -1,0 +1,13 @@
+This is SteGUI, a graphical front-end to Steghide.
+Copyright (C) 2005,2007 by Nicola Cocchiaro <ncocchiaro [at] users.sf.net>
+and released under the GNU/GPL license.
+SteGUI can be found at http://www.sf.net/projects/stegui.
+Steghide is Copyright (C) 2003 Stefan Hetzl
+
+SteGUI known issues list
+Last updated: Apr 10, 2005
+
+* Opening a large number of files results in name tabs messing up (FLTK bug?)
+* Closing a text file displays some (apparently harmless) error messages from FLTK
+* Icons in (not pre-built) message windows sometimes get messed up (FLTK bug?)
+* File and directory icons fail to load on some systems (FLTK bug?)

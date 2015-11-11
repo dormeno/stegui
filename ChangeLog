@@ -1,0 +1,16 @@
+This is SteGUI, a graphical front-end to Steghide.
+Copyright (C) 2005,2007 by Nicola Cocchiaro <ncocchiaro [at] users.sf.net>
+and released under the GNU/GPL license.
+SteGUI can be found at http://www.sf.net/projects/stegui.
+Steghide is Copyright (C) 2003 Stefan Hetzl
+
+SteGUI ChangeLog
+
+
+* Changed fl_ask to fl_choice to be compatible with FLTK 1.1.7
+* Added Autotools support
+* Slightly fixed makefile and added bz2 target
+
+May 6, 2005
+
+* First public release 0.0.1

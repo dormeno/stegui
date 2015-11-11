@@ -1,0 +1,14 @@
+This is SteGUI, a graphical front-end to Steghide.
+Copyright (C) 2005,2007 by Nicola Cocchiaro <ncocchiaro [at] users.sf.net>
+and released under the GNU/GPL license.
+SteGUI can be found at http://www.sf.net/projects/stegui.
+Steghide is Copyright (C) 2003 Stefan Hetzl
+
+SteGUI TODO list!
+Last updated: Apr 10, 2005
+
+* A LOT of cleaning up and modularization
+* Improve use of Pstreams
+* Revise audio playback. Make it more flexible and add functionality and reliability. Drop aplay code?
+* Migrate to FLTK 2.0
+* Windows port (needs Windows-compatible Pstreams library and Windows audio support)
