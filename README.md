@@ -1,6 +1,6 @@
 **Wishlist Someone fork this And or Convert to Jpeg turbo** 
 and or use it as a basis for another GUI , FORK ME PLEASE.... 
-<h2> Orginally on SF.net <h2>
+<p> <h2> Orginally on SF.net <h2> </p>
 <p><br>This is SteGUI, a graphical front-end to Steghide.
 Copyright (C) 2005,2007 by Nicola Cocchiaro <ncocchiaro [at] users.sf.net>
 and released under the GNU/GPL license.
